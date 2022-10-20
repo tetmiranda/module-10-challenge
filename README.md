@@ -1,6 +1,7 @@
 # Application
 
 ## Challenge: Crypto Clustering
+![module-10-challenge](Images/mod_6_background_img.JPG)
 
 In this Challenge, you’ll combine your financial Python programming skills with the new unsupervised learning skills that you acquired in this module.
 
